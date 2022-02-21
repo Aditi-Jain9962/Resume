@@ -536,6 +536,18 @@ img{
     background-size: cover;
 }
 
+.chat__app{
+    background-image: url("https://il8.picdn.net/shutterstock/videos/8738563/thumb/4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.movie__app{
+    background-image: url("https://tse1.mm.bing.net/th?id=OIP.7XBS7xcQ8inVrP3iuq5wfwHaFj&pid=Api&P=0&w=234&h=175");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .services__content:hover{
     box-shadow: 0 4px 8px rgba(0,0,0,.15);
 }
